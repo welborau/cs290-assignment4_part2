@@ -1,5 +1,11 @@
-Start: Thur, 12 2015 23:11:32 -0700
-End:   Fri,  13 2015 01:09:21 -0700
+Start: Thur Feb 12 2015 23:11:32 -0700
+End:   Fri  Feb 13 2015 01:09:21 -0700
 Task: Watched the videos for mySQL and got repository set up, then watched the demo, and got started on my php file for the DB.
 
-Start: Sun
+Start: Sat Feb 14 2015 13:20:33 -0700
+End:   Sat Feb 14 2015 14:37:43 -0700
+Task:  Tested some functions with the DB through onid, making sure that they work correctly and understanding how to make DB through that.
+
+Start: Sun Feb 15 2015 19:00:00 -0700
+End:   SUn Feb 16 2015 24:51:18	-0700
+Task: Had an extremely difficult time using POST and mySQL together to get the variables separately then finding a way to delete each row correctly since it would delete the most recent row, not the row that I want it to delete specifically.  The videos and material online aren't very clear on how to really use them all together.  I did my best with what I could do, but couldn't get the add function to work correctly.
