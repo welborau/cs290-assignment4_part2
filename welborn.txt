@@ -1,0 +1,5 @@
+Start: Thur, 12 2015 23:11:32 -0700
+End:   Fri,  13 2015 01:09:21 -0700
+Task: Watched the videos for mySQL and got repository set up, then watched the demo, and got started on my php file for the DB.
+
+Start: Sun
