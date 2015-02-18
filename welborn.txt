@@ -15,3 +15,7 @@ P.S.  I couldn't get my .gitignore file to hide my storedInfo.php (which has my 
 Start: Mon Feb 16 2015 07:05:12 -0700
 End:   Tue Feb 17 2015 00:20:47 -0700
 Task: Worked on the php file with father, whom has programming experience, modifying each function and all that.  BUt we got stuck at some point which can be showned in datStorage.php.  We decided to ask my brother whom does web development for a living and I was shocked to find I had approached this program incorrectly because php files are server only, so I decided to make a new file called betterStorage.php which was uploaded on github, which works WAY better now, just few more functions to work on.
+
+Start: Tue Feb 17 2015 19:43:11 -0700
+End:   Tue Feb 17 2015 20:02:39 -0700
+Task: Fixed the last problem with the filter by category and tested each procedure on the github assignment and passed all test.  This assignment is 100% working correctly.
